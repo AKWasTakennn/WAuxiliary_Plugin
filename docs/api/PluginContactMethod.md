@@ -1,4 +1,8 @@
-# 联系方法
+# 联系方法赶紧过
+
+
+
+
 
 ::: warning 警告
 本文档适用于 WAuxiliary v1.2.4 版本
@@ -56,7 +60,7 @@ List getGroupList();
 List getGroupMemberList(String groupWxid);
 ```
 
-## 取群成员数量
+## 取群成员数量对的
 
 ```java
 int getGroupMemberCount(String groupWxid);
